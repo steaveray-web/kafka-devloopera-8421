@@ -18,16 +18,17 @@ Large-scale platforms depend heavily on [scalability](https://perfectfirms.com/t
 
 ## Skills
 
-- [Event-Driven Architecture](https://perfectfirms.com/hire-top-companies/keyword)
-- [Apache Kafka](https://perfectfirms.com/hire-top-companies/keyword)
-- [Event Sourcing](https://perfectfirms.com/hire-top-companies/keyword)
-- [CQRS](https://perfectfirms.com/hire-top-companies/keyword)
-- [Messaging Systems](https://perfectfirms.com/hire-top-companies/keyword)
-- [Distributed Systems](https://perfectfirms.com/hire-top-companies/keyword)
-- [Scalability Engineering](https://perfectfirms.com/hire-top-companies/keyword)
-- [Real-Time Processing](https://perfectfirms.com/hire-top-companies/keyword)
-- [Microservices](https://perfectfirms.com/hire-top-companies/keyword)
-- [Cloud-Native Architecture](https://perfectfirms.com/hire-top-companies/keyword)
-                  -
+- [Event-Driven Architecture](https://perfectfirms.com/hire-top-companies/Event-Driven Architecture)
+- [Apache Kafka](https://perfectfirms.com/hire-top-companies/Apache Kafka)
+- [Event Sourcing](https://perfectfirms.com/hire-top-companies/Event Sourcing)
+- [CQRS](https://perfectfirms.com/hire-top-companies/CQRS)
+- [Messaging Systems](https://perfectfirms.com/hire-top-companies/Messaging Systems)
+- [Distributed Systems](https://perfectfirms.com/hire-top-companies/Distributed Systems)
+- [Scalability Engineering](https://perfectfirms.com/hire-top-companies/Scalability Engineering)
+- [Real-Time Processing](https://perfectfirms.com/hire-top-companies/Real-Time Processing)
+- [Microservices](https://perfectfirms.com/hire-top-companies/Microservices)
+- [Cloud-Native Architecture](https://perfectfirms.com/hire-top-companies/Cloud-Native Architecture)
+
+- 
                   - Modern software platforms increasingly rely on asynchronous event processing to deliver fast, reliable, and scalable user experiences. Event-driven systems allow organizations to build highly resilient infrastructures capable of adapting to growing digital demands while supporting real-time analytics, automation, and distributed application ecosystems.
                   - # kafka-devloopera-8421
